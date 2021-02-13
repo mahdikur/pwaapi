@@ -1,0 +1,123 @@
+{
+"products" : [{
+  "id": 1,
+  "name": "White-necked raven",
+  "category": "Blue"
+}, {
+  "id": 2,
+  "name": "Whale, baleen",
+  "category": "Aquamarine"
+}, {
+  "id": 3,
+  "name": "Sidewinder",
+  "category": "Pink"
+}, {
+  "id": 4,
+  "name": "Camel, dromedary",
+  "category": "Teal"
+}, {
+  "id": 5,
+  "name": "American marten",
+  "category": "Red"
+}, {
+  "id": 6,
+  "name": "Savannah deer (unidentified)",
+  "category": "Yellow"
+}, {
+  "id": 7,
+  "name": "Cat, african wild",
+  "category": "Teal"
+}, {
+  "id": 8,
+  "name": "Red brocket",
+  "category": "Indigo"
+}, {
+  "id": 9,
+  "name": "Sable antelope",
+  "category": "Crimson"
+}, {
+  "id": 10,
+  "name": "Uinta ground squirrel",
+  "category": "Maroon"
+}, {
+  "id": 11,
+  "name": "Cobra, egyptian",
+  "category": "Maroon"
+}, {
+  "id": 12,
+  "name": "Fox, pampa gray",
+  "category": "Turquoise"
+}, {
+  "id": 13,
+  "name": "Blue catfish",
+  "category": "Maroon"
+}, {
+  "id": 14,
+  "name": "Blue waxbill",
+  "category": "Indigo"
+}, {
+  "id": 15,
+  "name": "Hawk-headed parrot",
+  "category": "Orange"
+}, {
+  "id": 16,
+  "name": "Cockatoo, roseate",
+  "category": "Teal"
+}, {
+  "id": 17,
+  "name": "Green heron",
+  "category": "Maroon"
+}, {
+  "id": 18,
+  "name": "Desert tortoise",
+  "category": "Indigo"
+}, {
+  "id": 19,
+  "name": "Eastern quoll",
+  "category": "Red"
+}, {
+  "id": 20,
+  "name": "Savanna baboon",
+  "category": "Khaki"
+}, {
+  "id": 21,
+  "name": "Sally lightfoot crab",
+  "category": "Purple"
+}, {
+  "id": 22,
+  "name": "Orca",
+  "category": "Red"
+}, {
+  "id": 23,
+  "name": "Blesbok",
+  "category": "Pink"
+}, {
+  "id": 24,
+  "name": "Golden jackal",
+  "category": "Purple"
+}, {
+  "id": 25,
+  "name": "African black crake",
+  "category": "Green"
+}, {
+  "id": 26,
+  "name": "Red-necked phalarope",
+  "category": "Aquamarine"
+}, {
+  "id": 27,
+  "name": "Mongoose, javan gold-spotted",
+  "category": "Fuscia"
+}, {
+  "id": 28,
+  "name": "Gecko, bent-toed",
+  "category": "Turquoise"
+}, {
+  "id": 29,
+  "name": "Common raccoon",
+  "category": "Blue"
+}, {
+  "id": 30,
+  "name": "Stanley bustard",
+  "category": "Orange"
+}]
+}
